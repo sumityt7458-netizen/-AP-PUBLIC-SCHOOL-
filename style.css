@@ -9,11 +9,11 @@ banner {
 }
 
 .logo {
-  width: 50px;     /* logo ki width control karne ke liye */
+  width: 10px;     /* logo ki width control karne ke liye */
   height: auto;    /* height automatically adjust hogi */
   position: absolute; /* side me corner par fix karne ke liye */
-  top: 10px;       /* upar se distance */
-  right: 10px;     /* right side corner par */
+  top: 1px;       /* upar se distance */
+  right: 02px;     /* right side corner par */
 }
 
 /* Nav */
